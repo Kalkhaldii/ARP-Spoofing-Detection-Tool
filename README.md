@@ -23,4 +23,4 @@ A Python-based ARP spoofing detection tool that monitors ARP reply packets and d
 
 # Usage
 ```bash
-python arp_spoof_detector.py
+Run the script in a local or lab network environment to monitor ARP activity.
